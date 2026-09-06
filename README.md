@@ -14,7 +14,6 @@
 
 ## Coming soon(ish)
 
-Deploy on Cloud, CI/CD  
 Remove (ish) from above -> Move to WebSockets for some parts of communication  
 Different approach on Search  
 Cart  
